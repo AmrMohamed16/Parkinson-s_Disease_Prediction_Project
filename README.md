@@ -101,13 +101,14 @@ To begin utilizing this application, follow these steps:
 
 # Sample Run
 
-* The Person Has Parkinsons 
+* The Person Have Parkinson's 
 
 
 
 <hr>
 
-* The Person Dose Not Have Parkinsons
+* The Person Doesn't Have Parkinson's
+
 
 
 <hr>
