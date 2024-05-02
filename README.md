@@ -101,13 +101,17 @@ To begin utilizing this application, follow these steps:
 
 # Sample Run
 
+
 * The Person Have Parkinson's 
 
 ![photo_2024-05-02 22 33 23](https://github.com/AmrMohamed16/Parkinson-s_Disease_Prediction_Project/assets/103078107/c4a9eba1-d254-4d38-b6b2-a1a8dda7a165)
 
+
 <hr>
 
+
 * The Person Doesn't Have Parkinson's
+
 
 ![photo_2024-05-02 22 44 42](https://github.com/AmrMohamed16/Parkinson-s_Disease_Prediction_Project/assets/103078107/43aedcee-a875-45f8-a72e-b44942b9599c)
 
