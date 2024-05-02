@@ -109,7 +109,7 @@ To begin utilizing this application, follow these steps:
 
 * The Person Doesn't Have Parkinson's
 
-
+![photo_2024-05-02 22 44 42](https://github.com/AmrMohamed16/Parkinson-s_Disease_Prediction_Project/assets/103078107/43aedcee-a875-45f8-a72e-b44942b9599c)
 
 <hr>
   
