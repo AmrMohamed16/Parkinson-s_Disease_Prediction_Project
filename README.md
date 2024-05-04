@@ -11,7 +11,7 @@ Parkinson's Disease Prediction Project using Support Vector Machine (SVM) for Ar
 * [Remarks](#Remarks)
 * [Usage](#Usage)
 * [Sample Run](#SampleRun)
-
+ 
 
 # Contributors
 
